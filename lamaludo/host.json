@@ -1,9 +1,1 @@
-{
-  "replace": {},
-  "host": ["ludo.wenext.games", "ludo.wenext.plus"],
-  "backup_host": ["ludoback.wenext.website"],
-  "dns": {
-    "ludo.wenext.games": "43.157.69.165",
-    "ludo.wenext.plus": "43.157.69.165"
-  }
-}
+{"dns":{"ludo-cf.wenext.games":"43.157.69.165","ludo-cf.wenext.plus":"43.157.69.165"},"host":["ludo-cf.wenext.games","ludo-cf.wenext.plus"],"backup_host":["ludo.wenext.games","ludo.wenext.plus","ludoback.wenext.website"]}
