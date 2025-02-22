@@ -1,15 +1,1 @@
-{
-  "replace": {},
-  "host": [
-    "weparty-cf.wenext.cloud"
-  ],
-  "backup_host": [
-    "weparty.wenext.cloud",
-    "wepartyback.wenext.website"
-  ],
-  "dns": {
-    "weparty.wenext.cloud": "162.62.97.46",
-    "wepartyback.wenext.website": "162.62.97.46",
-    "weparty-cf.wenext.cloud": "162.62.97.46"
-  }
-}
+{"replace":{},"host":["weparty-cf.wenext.cloud"],"backup_host":["weparty.wenext.cloud","wepartyback.wenext.website"],"dns":{"weparty.wenext.cloud":"162.62.97.46","wepartyback.wenext.website":"162.62.97.46","weparty-cf.wenext.cloud":"162.62.97.46"}}
