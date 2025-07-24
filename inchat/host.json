@@ -1,1 +1,16 @@
-{"replace":{"dcdn.wenextinchat.com":"inchat-cf.wenextinchat.com"},"host":["inchat-cf.wenextinchat.com"],"backup_host":["wenextinchat.com"],"dns":{"wenextinchat.com":"43.158.121.73","inchat-cf.wenextinchat.com":"43.158.121.73"}}
+{
+    "replace": {
+      "dcdn.wenextinchat.com": "inchat-cf.wenextinchat.com",
+      "web.wenextinchat.com": "web-cf.wenext-gameparty.chat"
+    },
+    "host": [
+      "inchat-cf.wenextinchat.com"
+    ],
+    "backup_host": [
+      "wenextinchat.com"
+    ],
+    "dns": {
+      "wenextinchat.com": "43.158.121.73",
+      "inchat-cf.wenextinchat.com": "43.158.121.73"
+    }
+}
